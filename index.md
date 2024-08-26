@@ -27,7 +27,7 @@ The next edition of the workshop is planned to focus on data-driven and expert-b
 
 ## Interest group
 
-Mattias Appelgren, CLASP, University of Gothenburg, mattias.appelgren@gu.se
+Mattias Appelgren, CLASP, University of Gothenburg, mattias.appelgren@gu.se  
 Špela Arhar Holdt, University of Ljubljana, arhar.spela@gmail.com  
 Micaella Bruton, Uppsala University, micaella.bruton@ling.su.se  
 Dana Dannélls, Språkbanken Text, University of Gothenburg, dana.dannells@svenska.gu.se  
