@@ -29,7 +29,7 @@ Jörg Tiedemann, University of Helsinki,  jorg.tiedemann@helsinki.fi
 Lilja Øvrelid, University of Oslo, liljao@ifi.uio.no  
 Mattias Appelgren, CLASP, University of Gothenburg, mattias.appelgren@gu.se
 
-## Previous editiong
+## Previous editions
 
 [The first workshop](https://gu-clasp.github.io/resourceful-2020/) focused on the size of the resources available for natural language processing. It was co-located with [the 8th Swedish Language Technology Conference (SLTC)](https://spraakbanken.gu.se/en/sltc2020), University of Gothenburg, Sweden.
 
