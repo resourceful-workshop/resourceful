@@ -24,7 +24,6 @@ The next edition of the workshop is planned to focus on data-driven and expert-b
 ## ACL Anthology
 
   - [Proceedings of the Second Workshop on Resources and Representations for Under-Resourced Languages and Domains (RESOURCEFUL-2023)](https://aclanthology.org/volumes/2023.resourceful-1/)
-  - 
 
 ## Interest group
 
