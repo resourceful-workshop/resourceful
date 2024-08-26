@@ -18,7 +18,7 @@ The RESOURCEFUL workshop series is an active research initiative that aims to br
 
 [The second iteration of the workshop](https://resourceful-workshop.github.io/resourceful-2023/) explored the role of the kind and the quality of resources that are available to us and challenges and directions for constructing new resources in light of the latest trends in natural language processing. It was co-located with [the 24th Nordic Conference on Computational Linguistics (NoDaLiDa)](https://www.nodalida2023.fo/nodalida-2023-tórshavn-faroe-islands), Tórshavn, Faroe Islands.
 
-The next edition of the workshop is planned to focus on data-driven and expert-based types of resources in light of the dominance of the former in natural language processing and computational linguistics in general and the increasing interest in expert-annotated resources. We are particularly interested in how the two can be brought together to computationally solve linguistic problems for different languages.
+The next edition of the workshop is planned to focus on data-driven and expert-based types of resources in light of the dominance of the former in natural language processing and computational linguistics in general and the increasing interest in expert-annotated resources. We are particularly interested in how the two can be brought together to (computationally) solve linguistic problems for different languages.
 
 
 ## ACL Anthology
