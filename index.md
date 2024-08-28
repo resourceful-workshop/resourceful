@@ -33,11 +33,11 @@ Micaella Bruton, Uppsala University, micaella.bruton@ling.su.se
 Dana Dannélls, Språkbanken Text, University of Gothenburg, dana.dannells@svenska.gu.se  
 Simon Dobnik, CLASP, University of Gothenburg, simon.dobnik@gu.se  
 Nikolai Ilinykh, CLASP, University of Gothenburg, nikolai.ilinykh@gu.se  
-Crina Madalina Tudor, Uppsala University, crina.tudor@ling.su.se  
-Beáta Megyesi, Uppsala University, beata.megyesi@lingfil.uu.se  
+Crina Madalina Tudor, Stockholm University, crina.tudor@ling.su.se  
+Beáta Megyesi, Stockholm University, beata.megyesi@ling.su.se  
 Joakim Nivre, RISE and Uppsala University, joakim.nivre@lingfil.uu.se  
 Iben Nyholm Debess, The University of the Faroe Islands, IbenND@setur.fo  
-Barbara Scalvini, Leiden University, barbaras@setur.fo  
+Barbara Scalvini, The University of the Faroe Islands, barbaras@setur.fo  
 Sara Stymne, Uppsala University, sara.stymne@lingfil.uu.se  
 Jörg Tiedemann, University of Helsinki,  jorg.tiedemann@helsinki.fi  
 Lilja Øvrelid, University of Oslo, liljao@ifi.uio.no  
