@@ -10,7 +10,7 @@ title: RESOURCEFUL workshop series
 
 ## Series description
 
-The RESOURCEFUL workshop series is an active research initiative that aims to bring attention to the problems of applying computational and linguistic tools for the collection, analysis, and application of resources such as text corpora or other modalities. The initiative brings together researchers from the fields of natural language processing, linguistics, and computational linguistics, who are interest
+The RESOURCEFUL workshop series is an active research initiative that aims to bring attention to the problems of applying computational and linguistic tools for the collection, analysis, and application of resources such as text corpora or other modalities. The initiative brings together researchers from the fields of natural language processing, linguistics and computational linguistics.
 
 ## Previous editions
 
